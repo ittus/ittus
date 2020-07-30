@@ -1,1 +1,1 @@
-# ittus
+![image](https://github.com/ittus/ittus/blob/master/dino.gif)
